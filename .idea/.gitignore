@@ -1,8 +1,5 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
-# Editor-based HTTP Client requests
-/httpRequests/
+[user]
+	name = atguigu
+	email = atguigu@atguigu.com
+[core]
+	excludesfile = /Users/changqi/Code/git0720/.idea/SH0720.ignore
