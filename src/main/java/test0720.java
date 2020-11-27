@@ -7,6 +7,7 @@ public class test0720 {
         System.out.println("hello");
         System.out.println("world");
         System.out.println("hot-fox");
+        System.out.println("pull");
 
     }
 }
